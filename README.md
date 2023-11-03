@@ -1,0 +1,1 @@
+This is the first Assignemnt on TailwindCSS given at the Hertechtrail CLass- Web Development Cohort 7
